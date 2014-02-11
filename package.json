@@ -1,0 +1,15 @@
+{
+  "name": "ruby-everest",
+  "version": "0.0.0",
+  "description": "Two factor authentication for humans",
+  "main": "re.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Nick Farley (@nfreader)",
+  "license": "BSD",
+  "dependencies": {
+    "seededshuffle": "~0.1.1",
+    "color": "~0.5.0"
+  }
+}
